@@ -1,0 +1,15 @@
+{
+    "name": "payamak-iraniyan/sdk",
+    "description": "یک SDK برای ارسال پیامک با پیامک ایرانیان",
+    "type": "library",
+    "require": {
+        "php": ">=7.4"
+    },
+    "autoload": {
+        "psr-4": {
+            "PayamakIraniyan\\": "src/"
+        }
+    },
+    "minimum-stability": "stable",
+    "license": "MIT"
+}
