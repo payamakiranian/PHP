@@ -1,5 +1,5 @@
 {
-    "name": "payamak-iraniyan/PHP",
+    "name": "payamakiranian/PHP",
     "description": "SDK پیامک ایرانیان برای ارسال SMS با REST و SOAP",
     "type": "library",
     "require": {
@@ -9,7 +9,7 @@
     },
     "autoload": {
         "psr-4": {
-            "PayamakIraniyan\\": "src/"
+            "PayamakIranian\\": "src/"
         }
     },
     "minimum-stability": "stable",
