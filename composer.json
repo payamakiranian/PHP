@@ -1,5 +1,5 @@
 {
-    "name": "payamak-iraniyan/sdk",
+    "name": "payamak-iraniyan/PHP",
     "description": "SDK پیامک ایرانیان برای ارسال SMS با REST و SOAP",
     "type": "library",
     "require": {
