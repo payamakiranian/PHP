@@ -1,9 +1,11 @@
 {
     "name": "payamak-iraniyan/sdk",
-    "description": "یک SDK برای ارسال پیامک با پیامک ایرانیان",
+    "description": "SDK پیامک ایرانیان برای ارسال SMS با REST و SOAP",
     "type": "library",
     "require": {
-        "php": ">=7.4"
+        "php": ">=7.4",
+        "ext-soap": "*",
+        "ext-curl": "*"
     },
     "autoload": {
         "psr-4": {
